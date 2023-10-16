@@ -35,11 +35,11 @@ Link: [](https://leetcode.com/problems/)
 
 
 
-## Exercicio 3 - 
+## Exercicio 3 - Network Delay Time
 Dificuldade: Médio <br>
-Link: [](https://leetcode.com/problems/)
+Link: [Network Delay Time](https://leetcode.com/problems/network-delay-time)
 
-
+Este problema pode ser resolvido utilizando o algoritmo de Dijkstra, que foi o implementado.
 
 ![](assets/img/exec3.png)
 
