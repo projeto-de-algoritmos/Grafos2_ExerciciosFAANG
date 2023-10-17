@@ -43,9 +43,9 @@ Este problema pode ser resolvido utilizando o algoritmo de Dijkstra, que foi o i
 
 ![](assets/img/exec3.png)
 
-## Exercicio 4 - 
+## Exercicio 4 -  Swim in Rising Water
 Dificuldade: Difícil <br>
-Link: [](https://leetcode.com/problems/)
+Link: [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water)
 
 
 
