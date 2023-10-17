@@ -18,7 +18,7 @@ https://github.com/projeto-de-algoritmos/Grafos1_LeetCodeExercicios/assets/12275
 
 ## Screenshots
 
-## Exercicio 1 - 
+## Exercicio 1 - Min Cost to Connect All Points
 
 Dificuldade: Médio <br>
 Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
@@ -27,7 +27,7 @@ Para esse exercício, foi utilizado o algoritmo de **Prim** para encontrar a ár
 
 ![](assets/img/exec1.png)
 
-## Exercicio 2 - 
+## Exercicio 2 - Min Cost to Connect All Points
 Dificuldade: Médio <br>
 Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
