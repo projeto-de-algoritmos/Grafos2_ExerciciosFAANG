@@ -1,8 +1,7 @@
 import heapq
-from typing import List
 
 class Solution(object):
-    def minCostConnectPoints(self, points: List[List[int]]) -> int:
+    def minCostConnectPoints(self, points):
         N = len(points) 
         adj = {i:[] for i in range(N)} # para cada i, tem vizinho lista de [cost, node]
 
@@ -29,3 +28,7 @@ class Solution(object):
             for vizcost, viz in adj[i]:
                 heapq.heappush(minHeap, [vizcost, viz])
         return totalCost
+    
+
+# Testes
+print(Solution().minCostConnectPoints([[0,0],[2,2],[3,10],[5,2],[7,0]])) 
