@@ -21,15 +21,17 @@ https://github.com/projeto-de-algoritmos/Grafos1_LeetCodeExercicios/assets/12275
 ## Exercicio 1 - 
 
 Dificuldade: Médio <br>
-Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/))
+Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
-
+Para esse exercício, foi utilizado o algoritmo de **Prim** para encontrar a árvore mínima e retornar o menor custo.
 
 ![](assets/img/exec1.png)
 
 ## Exercicio 2 - 
 Dificuldade: Médio <br>
-Link: [](https://leetcode.com/problems/)
+Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+
+Mesmo exemplo do exercício acima, porém, foi utilizado o algoritmo de **Kruskal** para o problema de MST, retornando o menor custo das arestas. O exercício foi repetido para fins didáticos, comparando o desempenho das soluções.
 
 ![](assets/img/exec2.png)
 
