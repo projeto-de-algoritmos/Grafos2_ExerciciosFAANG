@@ -21,7 +21,7 @@ https://github.com/projeto-de-algoritmos/Grafos1_LeetCodeExercicios/assets/12275
 ## Exercicio 1 - 
 
 Dificuldade: Médio <br>
-Link: [](https://leetcode.com/problems/)
+Link: [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/))
 
 
 
